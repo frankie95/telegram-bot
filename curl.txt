@@ -1,0 +1,1 @@
+curl -F "url=https://my-telegram-bot-4r9j1xtib.now.sh" https://api.telegram.org/bot786265745:AAGB8jAE4BGR3orCrBDrm8K41B3I9jJQwd8/setWebhook
